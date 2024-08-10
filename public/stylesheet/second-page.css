@@ -1,0 +1,21 @@
+body {
+    padding-top: 50px;
+}
+.description {
+    display: flex;
+    justify-content: space-between;
+}
+.title {
+    color: grey;
+}
+.border-div {
+    border-radius: 25px;
+    box-shadow: 0 0 5px 2px rgb(184, 183, 183);
+}
+.status {
+    border-radius: 10px;
+    background-color: rgba(6, 190, 6, 0.436);
+}
+.author {
+    color: rgb(50, 37, 190);
+}
